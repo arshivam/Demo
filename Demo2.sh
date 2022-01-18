@@ -10,6 +10,6 @@ z=$((x + y))
 =======
 m=$((x*y))
 echo $z "addtion"
-echo $s "multiplication"
+echo $m "multiplication"
 >>>>>>> feature1
 
